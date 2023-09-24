@@ -11,16 +11,16 @@
 <p>
 
     
-[Mon serveur Discord]( https://discord.gg/AzJ7Uz7wkx )
+[Isekai Team]( https://discord.gg/V9hFqvhgFU )
 <br>
-[Mon Shop ]( https://discord.gg/AzJ7Uz7wkx )  
+[Support]( https://discord.gg/V9hFqvhgFU )  
 </p>
-<p>par Mail : proroyal68470@gmail.com</p>
+<p>Mail Pro : awaitpy.pro@outlook.fr</p>
 
-<br>- 🔭 I’m currently working on pocketmine plugin
+<br>- 🔭 I’m currently working on PMP4/5 and Python.
 <br>- 🌱 I’m currently learning ...
-<br>- 👯 I’m looking to collaborate on LaTeamDevFr
-<br>- 🤔 I’m looking for help with Plugin pocketmine
+<br>- 👯 I’m looking to collaborate on Isekai Team
+
 
 # i like :
 <p>
