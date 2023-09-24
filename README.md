@@ -1,11 +1,11 @@
 ### Hi there 👋
 2k22/2k23
 <br>
-<img src="https://komarev.com/ghpvc/?username=floraawait"/>
+<img src="https://komarev.com/ghpvc/?username=FloraAwait"/>
 <br>
 30/03/2023 => ....
 <br>
-<img src="https://visitcount.itsvg.in/api?id=royaljacquesytb&label=Profile%20Views&color=4&icon=7&pretty=true"/>
+<img src="https://visitcount.itsvg.in/api?id=FloraAwait&label=Profile%20Views&color=4&icon=7&pretty=true"/>
 
 ### Me contacter
 <p>
